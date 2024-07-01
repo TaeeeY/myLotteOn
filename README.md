@@ -22,14 +22,21 @@
 
 ### 1. Front-End
 HTML<br>
+
 CSS<br>
+
 Thymeleaf<br>
+
 JavaScript
 ### 2. Back-end
 SpringBoot<br>
+
 JPA<br>
+
 QueryDSL<br>
+
 MyBatis
+
 ### 3. DataBase
 MySQL
 

@@ -21,14 +21,14 @@
 ### 사용기술 
 
 ### 1. Front-End
-HTML
-CSS
-Thymeleaf
+HTML<br>
+CSS<br>
+Thymeleaf<br>
 JavaScript
 ### 2. Back-end
-SpringBoot
-JPA
-QueryDSL
+SpringBoot<br>
+JPA<br>
+QueryDSL<br>
 MyBatis
 ### 3. DataBase
 MySQL

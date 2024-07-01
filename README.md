@@ -15,29 +15,31 @@
 
 
 ### 사용기술 
-
+--------------------------------------------------------------
 ### 1. Front-End
-HTML<br>
+  HTML<br>
 
-CSS<br>
+  CSS<br>
 
-Thymeleaf<br>
+  Thymeleaf<br>
 
-JavaScript
+  JavaScript
+  
 ### 2. Back-end
-SpringBoot<br>
+  SpringBoot<br>
 
-JPA<br>
+  JPA<br>
 
-QueryDSL<br>
+  QueryDSL<br>
 
-MyBatis
+  MyBatis
 
 ### 3. DataBase
-MySQL
+  MySQL
 
 
 ### ERD
+--------------------------------------------------------------
 <details>
   <summary>ERD</summary>
   <img src="https://github.com/Taeyoung20230727/myLotteOn/assets/140632598/c1fe3251-5b57-4d09-934e-cf9cf4f0404c" alt="Description of the image">
@@ -45,7 +47,7 @@ MySQL
 
 
 ### 핵심 구현기능
-
+--------------------------------------------------------------
 ### 1. 메인페이지
 - 배너 출력
 - 상품 카테고리 마우스 hover 시 1,2,3 차 카테고리 출력

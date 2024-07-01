@@ -42,9 +42,7 @@ MySQL
 
 
 ### ERD
-<details>
-![image](https://github.com/Taeyoung20230727/myLotteOn/assets/140632598/c1fe3251-5b57-4d09-934e-cf9cf4f0404c)
-</details>
+<details>![image](https://github.com/Taeyoung20230727/myLotteOn/assets/140632598/c1fe3251-5b57-4d09-934e-cf9cf4f0404c)</details>
 
 ### 핵심 구현기능
 

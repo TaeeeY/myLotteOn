@@ -4,7 +4,24 @@
 
 2024.04.17 ~ 2024.05.17(1달)
 
-### 프로젝트 버전 업데이트 내역
+### 사용기술 
+
+### 1. Front-End
+HTML
+CSS
+Thymeleaf
+JavaScript
+### 2. Back-end
+SpringBoot
+JPA
+QueryDSL
+MyBatis
+### 3. DataBase
+MySQL
+
+
+### ERD
+![image](https://github.com/Taeyoung20230727/myLotteOn/assets/140632598/c1fe3251-5b57-4d09-934e-cf9cf4f0404c)
 
 0.0.1-SNAPSHOT
 
